@@ -20,6 +20,9 @@ h4 {
   font-family: Tahoma, sans-serif;
   letter-spacing: .15em;
 }
+h3 {
+  font-weight: 300;
+}
 p {
   font-family: Georgia, serif;
   line-height: 1.5em;
@@ -79,7 +82,6 @@ footer h2 {
 #trivia h3,
 footer h3 {
   color: #8F8F8F;
-  font-weight: 400;
 }
 #the-couple p,
 #the-couple2 p,
@@ -111,7 +113,6 @@ footer .first p {
 #details h3,
 #registries h3 {
   color: #EEEEEE;
-  font-weight: 400;
 }
 #details p,
 #registries p {
@@ -135,6 +136,10 @@ footer .first p {
   padding-right: 10%;
   margin-left: 1.5%;
   text-align: left;
+}
+#the-couple2 #heart {
+  text-align: center;
+  padding-top: 5%;
 }
 #the-couple2 #love {
   padding: 0 20%;
