@@ -152,21 +152,31 @@ footer .first p {
 #true-love #love h3 {
   text-align: center;
 }
+#details {
+  width: 100%;
+  padding: 5%;
+}
 #details h2,
 #details h3 {
   text-align: center;
 }
 #details #ceremony {
+  display: inline-block;
   width: 30%;
   padding: 0 1.5%;
+  float: left;
 }
 #details #cocktails {
+  display: inline-block;
   width: 30%;
   padding: 0 1.5%;
+  float: left;
 }
 #details #reception {
+  display: inline-block;
   width: 30%;
   padding: 0 1.5%;
+  float: right;
 }
 /*
 #wedding-party {
