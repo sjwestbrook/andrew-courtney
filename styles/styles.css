@@ -30,6 +30,9 @@ p {
 .clear {
   clear: both;
 }
+.details-img {
+  text-align: center;
+}
 /* SECTIONS ========================= */
 body {
   margin: 0;
@@ -145,12 +148,27 @@ footer .first p {
   padding: 0 20%;
   text-align: left;
 }
-/*
-#details {
-  @dark-grey-sections;
+#true-love #love h2,
+#true-love #love h3 {
+  text-align: center;
 }
-
-
+#details h2,
+#details h3 {
+  text-align: center;
+}
+#details #ceremony {
+  width: 30%;
+  padding: 0 1.5%;
+}
+#details #cocktails {
+  width: 30%;
+  padding: 0 1.5%;
+}
+#details #reception {
+  width: 30%;
+  padding: 0 1.5%;
+}
+/*
 #wedding-party {
   
 }
