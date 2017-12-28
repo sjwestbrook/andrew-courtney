@@ -56,47 +56,47 @@ header h2 {
   font-weight: 400;
 }
 #the-couple,
-#the-couple2,
+#true-love,
 #wedding-party,
 #trivia,
 footer {
   background-color: #F1F0EE;
 }
 #the-couple h1,
-#the-couple2 h1,
+#true-love h1,
 #wedding-party h1,
 #trivia h1,
 footer h1 {
   color: #7A7A7A;
 }
 #the-couple h2,
-#the-couple2 h2,
+#true-love h2,
 #wedding-party h2,
 #trivia h2,
 footer h2 {
   color: #7A7A7A;
 }
 #the-couple h3,
-#the-couple2 h3,
+#true-love h3,
 #wedding-party h3,
 #trivia h3,
 footer h3 {
   color: #8F8F8F;
 }
 #the-couple p,
-#the-couple2 p,
+#true-love p,
 #wedding-party p,
 #trivia p,
 footer p {
   color: #999999;
 }
 #the-couple .first h3,
-#the-couple2 .first h3,
+#true-love .first h3,
 #wedding-party .first h3,
 #trivia .first h3,
 footer .first h3,
 #the-couple .first p,
-#the-couple2 .first p,
+#true-love .first p,
 #wedding-party .first p,
 #trivia .first p,
 footer .first p {
@@ -137,11 +137,11 @@ footer .first p {
   margin-left: 1.5%;
   text-align: left;
 }
-#the-couple2 #heart {
+#true-love #heart {
   text-align: center;
   padding-top: 5%;
 }
-#the-couple2 #love {
+#true-love #love {
   padding: 0 20%;
   text-align: left;
 }
