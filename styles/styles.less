@@ -1,4 +1,4 @@
-/* VARIABLES */
+/* VARIABLES & MIXINS =========================*/
 
 @dkcoral: #9E595A;              /* rgb(158, 89, 90) */
 @coral: #FF9796;                /* rgb(255, 151, 150) */
@@ -12,3 +12,93 @@
 @details-font: #DDDDDD;         /* rgb(221, 221, 221) */
 @details-header-sm: #EEEEEE;    /* rgb(238, 238, 238) */
 @white-font: #FFFFFF;           /* rgb(255, 255, 255) */
+
+
+
+/* MISC ELEMENTS ========================= */
+
+h1, h2, h3, h4 {
+ text-transform: uppercase; 
+}
+
+
+
+
+/* SECTIONS ========================= */
+
+/* #wrapper {} */
+
+ header {
+  background: url(images/bg.jpg) bottom center no-repeat @coral;
+}
+
+
+#the-couple, #wedding-party, #trivia, footer {
+  background-color: @section-grey;
+  h2 {
+   color: @grey-headers; 
+  }
+  h3 {
+   color: @grey-header-sm; 
+  }
+  p {
+   color: @grey-font;
+  }
+}
+
+#details, #registries {
+  background-color: @grey-font;
+  h2 {
+   color: @white-font; 
+  }
+  h3 {
+   color: @details-header-sm; 
+  }
+  p {
+   color: @details-font;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+/*
+#the-couple {
+ 
+}
+
+
+#details {
+  @dark-grey-sections;
+}
+
+
+#wedding-party {
+  
+}
+
+
+#registries {
+  
+}
+
+
+#trivia {
+  
+}
+
+
+#gallery {
+
+}
+
+
+footer {
+ 
+} */
