@@ -17,15 +17,22 @@ h2,
 h3,
 h4 {
   text-transform: uppercase;
+  font-family: Tahoma, sans-serif;
+}
+p {
+  font-family: Georgia, serif;
 }
 /* SECTIONS ========================= */
 #wrapper {
   margin: 0;
   padding: 0;
-  font-family: Tahoma, sans-serif;
 }
 header {
-  background: url(../images/bg.jpg) bottom center no-repeat;
+  background: url(../images/bg.jpg) bottom cover no-repeat;
+}
+header h1,
+header h2 {
+  color: #FFFFFF;
 }
 #the-couple,
 #wedding-party,
@@ -56,6 +63,16 @@ footer h3 {
 #trivia p,
 footer p {
   color: #999999;
+}
+#the-couple .first h3,
+#wedding-party .first h3,
+#trivia .first h3,
+footer .first h3,
+#the-couple .first p,
+#wedding-party .first p,
+#trivia .first p,
+footer .first p {
+  color: #998565;
 }
 #details,
 #registries {
