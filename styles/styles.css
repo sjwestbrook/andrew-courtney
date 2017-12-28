@@ -122,16 +122,18 @@ footer .first p {
 }
 #the-couple #courtney {
   display: inline-block;
-  width: 50%;
+  width: 38.5%;
   float: left;
   padding-left: 10%;
+  margin-right: 1.5%;
   text-align: right;
 }
 #the-couple #andrew {
   display: inline-block;
-  width: 50%;
+  width: 38.5%;
   float: right;
   padding-right: 10%;
+  margin-left: 1.5%;
   text-align: left;
 }
 #the-couple2 #love {
