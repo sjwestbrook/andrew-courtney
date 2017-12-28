@@ -113,18 +113,18 @@ footer .first p {
 #the-couple #courtney {
   display: inline-block;
   width: 50%;
-  /*   float: left; */
+  float: left;
   padding-left: 10%;
   text-align: right;
 }
 #the-couple #andrew {
   display: inline-block;
   width: 50%;
-  /*   float: right; */
+  float: right;
   padding-right: 10%;
   text-align: left;
 }
-#the-couple #love {
+#the-couple2 #love {
   padding: 0 20%;
   text-align: left;
 }
