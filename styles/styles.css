@@ -154,7 +154,7 @@ footer .first p {
 }
 #details {
   width: 100%;
-  padding: 5%;
+  padding: 5% 0;
 }
 #details h2,
 #details h3 {
