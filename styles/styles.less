@@ -20,14 +20,21 @@
 h1, h2, h3, h4 {
  text-transform: uppercase; 
  font-family: Tahoma, sans-serif;
+ letter-spacing: .15em;
 }
 
 p {
  font-family: Georgia, serif;
+ line-height: 1.5em;
 }
 
 
 /* SECTIONS ========================= */
+
+body {
+ margin: 0;
+ padding: 0;
+}
 
 #wrapper {
  margin: 0;
@@ -40,6 +47,13 @@ p {
   background-size: cover;
   h1, h2 {
    color: @white-font;
+   text-align: center;
+  }
+  h1 {
+   font-size: 3.5em;   
+  }
+  h2 {
+   font-weight: 400;
   }
 }
 
@@ -54,6 +68,7 @@ p {
   }
   h3 {
    color: @grey-header-sm; 
+   font-weight: 400;
   }
   p {
    color: @grey-font;
@@ -72,6 +87,7 @@ p {
   }
   h3 {
    color: @details-header-sm; 
+   font-weight: 400;
   }
   p {
    color: @details-font;
@@ -82,17 +98,22 @@ p {
 
 
 
-
-
-
-
-
-/*
 #the-couple {
  
+
+ #courtney {
+  text-align: left;
+ }
+ #andrew {
+  text-align: right;
+ }
+ #love {
+  padding: 0 5%;
+  text-align: right;
+ }
 }
 
-
+/*
 #details {
   @dark-grey-sections;
 }
