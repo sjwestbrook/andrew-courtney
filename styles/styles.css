@@ -107,15 +107,26 @@ footer .first p {
 #registries p {
   color: #DDDDDD;
 }
+#the-couple {
+  width: 100%;
+}
 #the-couple #courtney {
-  text-align: left;
+  display: inline-block;
+  width: 50%;
+  /*   float: left; */
+  padding-left: 10%;
+  text-align: right;
 }
 #the-couple #andrew {
-  text-align: right;
+  display: inline-block;
+  width: 50%;
+  /*   float: right; */
+  padding-right: 10%;
+  text-align: left;
 }
 #the-couple #love {
-  padding: 0 5%;
-  text-align: right;
+  padding: 0 20%;
+  text-align: left;
 }
 /*
 #details {
