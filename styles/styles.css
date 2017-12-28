@@ -154,7 +154,7 @@ footer .first p {
 }
 #details {
   width: 100%;
-  padding: 5% 2.3%;
+  padding: 5% 5%;
 }
 #details h2,
 #details h3 {
@@ -176,7 +176,11 @@ footer .first p {
   display: inline-block;
   width: 28%;
   padding: 0 1.5%;
-  float: right;
+  float: left;
+}
+#details #accommodations {
+  clear: both;
+  padding-top: 5%;
 }
 /*
 #wedding-party {
