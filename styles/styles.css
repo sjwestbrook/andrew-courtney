@@ -154,7 +154,7 @@ footer .first p {
 }
 #details {
   width: 100%;
-  padding: 5%;
+  padding: 5% 2.3%;
 }
 #details h2,
 #details h3 {
@@ -162,19 +162,19 @@ footer .first p {
 }
 #details #ceremony {
   display: inline-block;
-  width: 30%;
+  width: 28%;
   padding: 0 1.5%;
   float: left;
 }
 #details #cocktails {
   display: inline-block;
-  width: 30%;
+  width: 28%;
   padding: 0 1.5%;
   float: left;
 }
 #details #reception {
   display: inline-block;
-  width: 30%;
+  width: 28%;
   padding: 0 1.5%;
   float: right;
 }
