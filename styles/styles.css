@@ -181,12 +181,19 @@ footer .first p {
 #details #accommodations {
   clear: both;
 }
-/*
 #wedding-party {
-  
+  padding: 5% 0;
 }
-
-
+#wedding-party .first {
+  background-color: #D6C6AF;
+  color: #998565;
+  padding: 1%;
+  margin: 1%;
+}
+#wedding-party h3 {
+  text-align: center;
+}
+/*
 #registries {
   
 }
