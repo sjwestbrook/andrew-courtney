@@ -244,6 +244,12 @@ footer .first p {
   padding: 5% 10%;
   text-align: center;
 }
+#registries registry-info {
+  padding: 2% 0 5% 0;
+  width: 60%;
+  margin: 0 auto;
+  font-size: 1.2em;
+}
 #registries #logos {
   padding: 0 10%;
 }
@@ -269,6 +275,6 @@ footer .first p {
 */
 footer {
   margin: 0;
-  padding: 5%;
+  padding: 1%;
   text-align: center;
 }
