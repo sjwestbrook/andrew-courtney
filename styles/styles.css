@@ -242,6 +242,7 @@ footer .first p {
 #registries {
   clear: both;
   padding: 5% 10%;
+  text-align: center;
 }
 #registries #logos {
   padding: 0 10%;
@@ -249,6 +250,9 @@ footer .first p {
 #registries #logos a {
   padding: 2%;
   width: 25%;
+}
+#registries #logos a #kohls {
+  padding-right: 10%;
 }
 #registries #logos a #macys {
   padding-left: 10%;
@@ -262,8 +266,9 @@ footer .first p {
 #gallery {
 
 }
-
-
+*/
 footer {
- 
-} */
+  margin: 0;
+  padding: 5%;
+  text-align: center;
+}
