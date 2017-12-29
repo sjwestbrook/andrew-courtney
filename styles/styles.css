@@ -236,15 +236,24 @@ footer .first p {
 #wedding-party .person {
   display: inline-block;
   width: 20%;
-  padding: 0 3% 0 8%;
+  padding: 2%;
   float: left;
 }
-/*
 #registries {
   clear: both;
+  padding: 5% 10%;
 }
-
-
+#registries #logos {
+  padding: 0 10%;
+}
+#registries #logos a {
+  padding: 2%;
+  width: 25%;
+}
+#registries #logos a #macys {
+  padding-left: 10%;
+}
+/*
 #trivia {
   
 }
