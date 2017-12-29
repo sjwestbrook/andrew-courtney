@@ -185,6 +185,7 @@ footer .first p {
 #details h2,
 #details h3 {
   text-align: center;
+  padding-bottom: 2%;
 }
 #details #ceremony {
   display: inline-block;
@@ -206,7 +207,7 @@ footer .first p {
 }
 #details #accommodations {
   clear: both;
-  padding-top: 3%;
+  padding: 3% 8% 0 8%;
 }
 #wedding-party {
   padding: 5% 0;
@@ -220,8 +221,14 @@ footer .first p {
 #wedding-party .first {
   background-color: #D6C6AF;
   color: #998565;
-  padding: 1%;
-  margin: 1%;
+  /*    padding: 1%;
+   margin: 1%; */
+}
+#wedding-party .person {
+  display: inline-block;
+  width: 20%;
+  padding: 0 3% 0 8%;
+  float: left;
 }
 /*
 #registries {
