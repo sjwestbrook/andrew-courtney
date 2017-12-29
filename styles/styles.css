@@ -231,7 +231,7 @@ footer .first p {
   clear: both;
 }
 #wedding-party #ushers {
-  padding: 2% 15%;
+  padding: 2% 25%;
   clear: both;
 }
 #wedding-party .first {
@@ -247,7 +247,7 @@ footer .first p {
 #wedding-party .person2 {
   display: inline-block;
   width: 30%;
-  padding: 2% ;
+  padding: 2% 5%;
   float: left;
 }
 #registries {
