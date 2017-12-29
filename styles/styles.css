@@ -146,6 +146,11 @@ footer .first p {
 }
 #the-couple {
   width: 100%;
+  padding-top: 7%;
+}
+#the-couple h2,
+#the-couple h3 {
+  padding-bottom: 2%;
 }
 #the-couple #courtney {
   display: inline-block;
@@ -180,7 +185,7 @@ footer .first p {
 }
 #details {
   width: 100%;
-  padding: 5% 0;
+  padding: 7% 0;
 }
 #details h2,
 #details h3 {
@@ -210,7 +215,7 @@ footer .first p {
   padding: 3% 8% 0 8%;
 }
 #wedding-party {
-  padding: 5% 0;
+  padding: 7% 0;
 }
 #wedding-party h1 {
   text-align: center;
@@ -241,7 +246,7 @@ footer .first p {
 }
 #registries {
   clear: both;
-  padding: 5% 10%;
+  padding: 7% 10%;
   text-align: center;
 }
 #registries registry-info {
