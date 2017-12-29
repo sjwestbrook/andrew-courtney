@@ -20,6 +20,7 @@ h4 {
   font-family: Tahoma, sans-serif;
   letter-spacing: .15em;
   margin: 0;
+  padding-bottom: 2%;
 }
 h3 {
   font-weight: 300;
@@ -147,10 +148,9 @@ footer .first p {
 #the-couple {
   width: 100%;
   padding-top: 7%;
-}
-#the-couple h2,
-#the-couple h3 {
+  /*  h2, h3 {
   padding-bottom: 2%;
+ } */
 }
 #the-couple #courtney {
   display: inline-block;
