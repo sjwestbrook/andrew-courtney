@@ -19,6 +19,7 @@ h4 {
   text-transform: uppercase;
   font-family: Tahoma, sans-serif;
   letter-spacing: .15em;
+  margin: 0;
 }
 h3 {
   font-weight: 300;
@@ -67,6 +68,8 @@ header h2 {
   font-weight: 400;
 }
 #the-couple,
+#courtney,
+#andrew,
 #true-love,
 #wedding-party,
 #trivia,
@@ -74,6 +77,8 @@ footer {
   background-color: #F1F0EE;
 }
 #the-couple h1,
+#courtney h1,
+#andrew h1,
 #true-love h1,
 #wedding-party h1,
 #trivia h1,
@@ -81,6 +86,8 @@ footer h1 {
   color: #7A7A7A;
 }
 #the-couple h2,
+#courtney h2,
+#andrew h2,
 #true-love h2,
 #wedding-party h2,
 #trivia h2,
@@ -88,6 +95,8 @@ footer h2 {
   color: #7A7A7A;
 }
 #the-couple h3,
+#courtney h3,
+#andrew h3,
 #true-love h3,
 #wedding-party h3,
 #trivia h3,
@@ -95,6 +104,8 @@ footer h3 {
   color: #8F8F8F;
 }
 #the-couple p,
+#courtney p,
+#andrew p,
 #true-love p,
 #wedding-party p,
 #trivia p,
@@ -102,11 +113,15 @@ footer p {
   color: #999999;
 }
 #the-couple .first h3,
+#courtney .first h3,
+#andrew .first h3,
 #true-love .first h3,
 #wedding-party .first h3,
 #trivia .first h3,
 footer .first h3,
 #the-couple .first p,
+#courtney .first p,
+#andrew .first p,
 #true-love .first p,
 #wedding-party .first p,
 #trivia .first p,
@@ -137,7 +152,7 @@ footer .first p {
   width: 38.5%;
   float: left;
   padding-left: 10%;
-  margin-right: 1.5%;
+  padding-right: 1.5%;
   text-align: right;
 }
 #the-couple #andrew {
@@ -145,8 +160,11 @@ footer .first p {
   width: 38.5%;
   float: right;
   padding-right: 10%;
-  margin-left: 1.5%;
+  padding-left: 1.5%;
   text-align: left;
+}
+#true-love {
+  padding-bottom: 5%;
 }
 #true-love #heart {
   text-align: center;
@@ -170,27 +188,34 @@ footer .first p {
 }
 #details #ceremony {
   display: inline-block;
-  width: 28%;
+  width: 25%;
   padding: 0 3% 0 8%;
   float: left;
 }
 #details #cocktails {
   display: inline-block;
-  width: 28%;
+  width: 25%;
   padding: 0 1.5%;
   float: left;
 }
 #details #reception {
   display: inline-block;
-  width: 28%;
+  width: 25%;
   padding: 0 8% 0 3%;
   float: left;
 }
 #details #accommodations {
   clear: both;
+  padding-top: 3%;
 }
 #wedding-party {
   padding: 5% 0;
+}
+#wedding-party h1 {
+  text-align: center;
+}
+#wedding-party h3 {
+  text-align: center;
 }
 #wedding-party .first {
   background-color: #D6C6AF;
@@ -198,18 +223,22 @@ footer .first p {
   padding: 1%;
   margin: 1%;
 }
-#wedding-party h3 {
-  text-align: center;
-}
 /*
 #registries {
   
 }
+
+
 #trivia {
   
 }
+
+
 #gallery {
+
 }
+
+
 footer {
  
 } */
