@@ -46,7 +46,7 @@ header {
   background-image: url(../images/bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 40%;
+  background-size: 50%;
   background-color: #FF9796;
   padding: 10%;
   text-align: center;
@@ -205,18 +205,11 @@ footer .first p {
 #registries {
   
 }
-
-
 #trivia {
   
 }
-
-
 #gallery {
-
 }
-
-
 footer {
  
 } */
