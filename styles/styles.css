@@ -244,6 +244,12 @@ footer .first p {
   padding: 2%;
   float: left;
 }
+#wedding-party .person2 {
+  display: inline-block;
+  width: 30%;
+  padding: 2% ;
+  float: left;
+}
 #registries {
   clear: both;
   padding: 7% 10%;
