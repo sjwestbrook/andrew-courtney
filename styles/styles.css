@@ -218,11 +218,20 @@ footer .first p {
 #wedding-party h3 {
   text-align: center;
 }
+#wedding-party #bridesmaids {
+  padding: 2% 5%;
+}
+#wedding-party #groomsmen {
+  padding: 2% 5%;
+  clear: both;
+}
+#wedding-party #ushers {
+  padding: 2% 15%;
+  clear: both;
+}
 #wedding-party .first {
   background-color: #D6C6AF;
   color: #998565;
-  /*    padding: 1%;
-   margin: 1%; */
 }
 #wedding-party .person {
   display: inline-block;
@@ -232,7 +241,7 @@ footer .first p {
 }
 /*
 #registries {
-  
+  clear: both;
 }
 
 
