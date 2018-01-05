@@ -49,7 +49,7 @@ header {
   background-image: url(../images/bg.jpg);
   background-position: center bottom;
   background-repeat: no-repeat;
-  background-size: 50%;
+  background-size: 30%;
   background-color: #FF9796;
   padding: 10%;
   text-align: center;
@@ -73,6 +73,7 @@ header h2 {
 #courtney,
 #andrew,
 #true-love,
+#details,
 #wedding-party,
 #trivia,
 footer {
@@ -82,15 +83,18 @@ footer {
 #courtney h1,
 #andrew h1,
 #true-love h1,
+#details h1,
 #wedding-party h1,
 #trivia h1,
 footer h1 {
   color: #7A7A7A;
+  font-size: 1.35em;
 }
 #the-couple h2,
 #courtney h2,
 #andrew h2,
 #true-love h2,
+#details h2,
 #wedding-party h2,
 #trivia h2,
 footer h2 {
@@ -101,6 +105,7 @@ footer h2 {
 #courtney h3,
 #andrew h3,
 #true-love h3,
+#details h3,
 #wedding-party h3,
 #trivia h3,
 footer h3 {
@@ -111,6 +116,7 @@ footer h3 {
 #courtney p,
 #andrew p,
 #true-love p,
+#details p,
 #wedding-party p,
 #trivia p,
 footer p {
@@ -162,6 +168,7 @@ footer p {
 #true-love #heart {
   text-align: center;
   padding-top: 5%;
+  padding-bottom: 1%;
 }
 #true-love #love {
   padding: 0 20%;
@@ -203,7 +210,7 @@ footer p {
   padding: 3% 8% 0 8%;
 }
 #details a {
-  color: #999999;
+  color: #FFFFFF;
   font-size: .95em;
 }
 #wedding-party {
