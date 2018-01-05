@@ -49,14 +49,14 @@ header {
   background-image: url(../images/bg.jpg);
   background-position: center bottom;
   background-repeat: no-repeat;
-  background-size: 30%;
+  background-size: 28%;
   background-color: #FF9796;
-  padding: 10%;
+  padding: 5%;
   text-align: center;
 }
 header img {
   padding-bottom: 5%;
-  margin-bottom: 15%;
+  margin-bottom: 10%;
 }
 header h1,
 header h2 {
@@ -167,11 +167,11 @@ footer p {
 }
 #true-love #heart {
   text-align: center;
-  padding-top: 5%;
+  padding-top: 2.5%;
   padding-bottom: 1%;
 }
 #true-love #love {
-  padding: 0 20%;
+  padding: 0 23%;
   text-align: left;
 }
 #true-love #love h2,
@@ -209,12 +209,15 @@ footer p {
   clear: both;
   padding: 3% 8% 0 8%;
 }
+#details #accommodations h2 {
+  padding-bottom: 0;
+}
 #details a {
-  color: #FFFFFF;
+  color: #DDDDDD;
   font-size: .95em;
 }
 #wedding-party {
-  padding: 7% 0;
+  padding: 5% 0;
 }
 #wedding-party h1 {
   text-align: center;
@@ -251,8 +254,11 @@ footer p {
 }
 #registries {
   clear: both;
-  padding: 7% 10%;
+  padding: 7% 10% 5% 10%;
   text-align: center;
+}
+#registries h2 {
+  padding-bottom: 0;
 }
 #registries registry-info {
   padding: 0 20%;
@@ -289,8 +295,9 @@ footer {
   padding: 1%;
   text-align: center;
   background-color: #FFFFFF;
+  font-size: .7em;
 }
 footer a {
   color: #999999;
-  font-size: .95em;
+  font-size: .7em;
 }
