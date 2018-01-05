@@ -94,6 +94,7 @@ footer h1 {
 #trivia h2,
 footer h2 {
   color: #7A7A7A;
+  font-size: 1.25em;
 }
 #the-couple h3,
 #courtney h3,
@@ -103,6 +104,7 @@ footer h2 {
 #trivia h3,
 footer h3 {
   color: #8F8F8F;
+  font-size: .95em;
 }
 #the-couple p,
 #courtney p,
@@ -112,22 +114,7 @@ footer h3 {
 #trivia p,
 footer p {
   color: #999999;
-}
-#the-couple .first h3,
-#courtney .first h3,
-#andrew .first h3,
-#true-love .first h3,
-#wedding-party .first h3,
-#trivia .first h3,
-footer .first h3,
-#the-couple .first p,
-#courtney .first p,
-#andrew .first p,
-#true-love .first p,
-#wedding-party .first p,
-#trivia .first p,
-footer .first p {
-  color: #998565;
+  font-size: .95em;
 }
 #details,
 #registries {
@@ -247,7 +234,7 @@ footer .first p {
 #wedding-party .person2 {
   display: inline-block;
   width: 30%;
-  padding: 2% 5%;
+  padding: 2% 10%;
   float: left;
 }
 #registries {
