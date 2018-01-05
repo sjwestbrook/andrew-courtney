@@ -39,6 +39,7 @@ p {
 body {
   margin: 0;
   padding: 0;
+  background-color: #F1F0EE;
 }
 #wrapper {
   margin: 0;
@@ -75,7 +76,7 @@ header h2 {
 #wedding-party,
 #trivia,
 footer {
-  background-color: #F1F0EE;
+  /*   background-color: @section-grey; */
 }
 #the-couple h1,
 #courtney h1,
