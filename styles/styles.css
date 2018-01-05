@@ -202,6 +202,10 @@ footer p {
   clear: both;
   padding: 3% 8% 0 8%;
 }
+#details a {
+  color: #999999;
+  font-size: .95em;
+}
 #wedding-party {
   padding: 7% 0;
 }
