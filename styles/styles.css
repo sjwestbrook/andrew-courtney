@@ -47,7 +47,7 @@ body {
 }
 header {
   background-image: url(../images/bg.jpg);
-  background-position: center;
+  background-position: center bottom;
   background-repeat: no-repeat;
   background-size: 50%;
   background-color: #FF9796;
@@ -276,4 +276,5 @@ footer {
   margin: 0;
   padding: 1%;
   text-align: center;
+  background-color: #FFFFFF;
 }
